@@ -7,3 +7,6 @@ This repo is used to play with [Rocky Linux](https://github.com/rocky-linux/rock
 
 - [Slack](https://app.slack.com/client/T0YKGK200/C01HFJK8LFJ)
 
+    > Use **#rocky-devel-packaging** channel for RPM(Red-hat Package Manager) related discussion.
+
+
