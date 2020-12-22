@@ -1,6 +1,6 @@
 # rocky-linux-playground
 
-This repo is used to play with [Rocky Linux](https://github.com/rocky-linux/rocky).
+This repo is used to play with [Rocky Linux](https://github.com/rocky-linux/rocky) and understand what it takes to create a working distribution.
 
 
 ## Join the discussion
