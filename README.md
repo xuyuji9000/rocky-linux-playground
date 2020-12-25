@@ -22,3 +22,6 @@ This repo is used to play with [Rocky Linux](https://github.com/rocky-linux/rock
 
     > A 'simple' chroot build environment manager for building RPMs.
 
+3. [Podcast 72: Gregory Kurtzer, Rocky Linux](https://www.youtube.com/watch?v=KAmmZ1BvLe0)
+
+    > CentOS founder discuss about Rocky Linux
