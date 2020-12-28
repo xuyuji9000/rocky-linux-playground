@@ -11,6 +11,12 @@ This repo is used to play with [Rocky Linux](https://github.com/rocky-linux/rock
     
     > Use `Saved Items` to glance over the interesting things
 
+## Commands
+
+- Extract content from `.rpm` files
+
+    `rpm2cpio ./packagecloud-test-1.1-1.x86_64.rpm | cpio -idmv`[5]
+
 
 # Reference 
 
@@ -28,3 +34,5 @@ This repo is used to play with [Rocky Linux](https://github.com/rocky-linux/rock
 
 
 4. [RockyLinux reddit](https://www.reddit.com/r/RockyLinux/)
+
+5. [Inspecting and extracting RPM package contents](https://blog.packagecloud.io/eng/2015/10/13/inspect-extract-contents-rpm-packages/)
