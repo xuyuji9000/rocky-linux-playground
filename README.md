@@ -17,6 +17,8 @@ This repo is used to play with [Rocky Linux](https://github.com/rocky-linux/rock
 
     `rpm2cpio ./packagecloud-test-1.1-1.x86_64.rpm | cpio -idmv`[5]
 
+- [Build binary RPM from SRPM](./Install-from-SRPM.md)
+
 
 # Reference 
 
