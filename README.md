@@ -38,3 +38,8 @@ This repo is used to play with [Rocky Linux](https://github.com/rocky-linux/rock
 4. [RockyLinux reddit](https://www.reddit.com/r/RockyLinux/)
 
 5. [Inspecting and extracting RPM package contents](https://blog.packagecloud.io/eng/2015/10/13/inspect-extract-contents-rpm-packages/)
+
+
+6. [RPM Packaging Guide](https://rpm-packaging-guide.github.io/#preparing-software-for-packaging)
+
+    > Understand how to build RPM packages.
