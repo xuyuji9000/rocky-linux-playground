@@ -11,7 +11,7 @@ This repo is used to play with [Rocky Linux](https://github.com/rocky-linux/rock
     
     > Use `Saved Items` to glance over the interesting things
 
-## Commands
+## Actions
 
 - Extract content from `.rpm` files
 
